@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="CLsUB3ErZU_aEZGPuiK4">
-    <mxGraphModel dx="2834" dy="2417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2547" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,6 +269,12 @@
         </mxCell>
         <mxCell id="FLCNNzF3kQCJPfdZUGp6-92" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="Как это правильно отображается?" vertex="1">
           <mxGeometry height="80" width="130" x="817" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="kWKu0s3yQ8lY-XuO8t_0-1" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="Как правильно отобразить амортизацию" vertex="1">
+          <mxGeometry height="80" width="130" x="120" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="kWKu0s3yQ8lY-XuO8t_0-2" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="Как правильно отобразить интеллектуальную собственность?" vertex="1">
+          <mxGeometry height="80" width="130" x="310" y="-30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
